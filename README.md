@@ -11,11 +11,11 @@ The Datasets will be collected from the publicly available data (from kaggle and
 
 ## Datasets
 ### **Primary Data Source:** Jakarta Air Quality Index (AQI)
-- **Dataset Name:** [Jakarta AQI Data (2010-2023)](https://www.kaggle.com/datasets/senadu34/air-quality-index-in-jakarta-2010-2021)
+- **Dataset Name:** [Jakarta AQI Data (2020)](https://www.kaggle.com/datasets/senadu34/air-quality-index-in-jakarta-2010-2021)
 - **Description:** Contains AQI values from multiple air quality monitoring stations in Jakarta.
 - **Features:** PM10, PM25, SO2, CO, O3, NO2 levels, timestamps, station locations.
 
 ### **Enrichment Data Source:** Jakarta Weather Data
-- **Dataset Name:** [Jakarta Historical Weather Data (2020)](https://www.visualcrossing.com/weather-history/Jakarta)
+- **Dataset Name:** [Jakarta Historical Weather Data (2020)](https://www.visualcrossing.com/weather-history/Jakarta,%20Indonesia/us/2020-01-01/2020-12-31/)
 - **Description:** Provides hourly/daily weather records such as temperature, humidity, wind speed, and precipitation.
 - **Features:** Temperature, humidity, wind speed, pressure, precipitation.
