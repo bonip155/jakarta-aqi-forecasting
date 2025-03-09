@@ -7,7 +7,7 @@ Air pollution is a significant issue in Jakarta, impacting public health and urb
 
 ---
 
-### The Datasets will be collected from the publicly available data (from kaggle and visualcrossing)
+The Datasets will be collected from the publicly available data (from kaggle and visualcrossing)
 
 ## Datasets
 ### **Primary Data Source:** Jakarta Air Quality Index (AQI)
