@@ -169,3 +169,31 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large dataset files if stored externally
+# Uncomment this line if you're NOT uploading CSV files
+# data/*.csv
+data/*.xlsx
+data/*.json
+
+# Ignore virtual environments
+venv/
+.env/
+*.pyc
+__pycache__/
+
+# Ignore logs and system files
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore trained ML model files
+models/
+*.h5
+*.pkl
+*.joblib
