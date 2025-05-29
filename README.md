@@ -67,4 +67,4 @@ This step significantly enriched the dataset and allowed the models to capture m
 ### 📄 [Final Report (PDF)](./final_report.pdf)
 
 ### Full Report
-See the full Jupyter notebook for detailed data cleaning, EDA, model training, evaluation, and statistical testing.
+See the full Jupyter notebook for detailed data cleaning, EDA, model training, and evaluation.
